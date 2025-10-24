@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: llm-service
+openai:
+  api-key: ${OPENAI_API_KEY}
+  model: gpt-4
